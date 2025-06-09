@@ -1,0 +1,11 @@
+{
+	"name": "Yönümüzü Bulalım",
+	"short_name": "Yönümüzü Bulalım",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [],
+	"screenshots": []
+}
